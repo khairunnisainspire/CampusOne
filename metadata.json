@@ -1,0 +1,6 @@
+{
+  "name": "CampusOne",
+  "description": "All-in-One Super App Mahasiswa: Opportunity Central, QuestLearn, PeerMatch, SmartCampus, dan Campus AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
